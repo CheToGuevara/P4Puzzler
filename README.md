@@ -3,7 +3,7 @@ Nanodegree Project 4: Puzzler
 
 
 #Commitments in this Project
-* 
+* Create a folder with all documentation
 * 
 * 
 
